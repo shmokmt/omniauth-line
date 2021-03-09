@@ -1,4 +1,5 @@
 # OmniAuth Line
+[![test](https://github.com/shmokmt/omniauth-line/actions/workflows/ruby.yml/badge.svg)](https://github.com/shmokmt/omniauth-line/actions/workflows/ruby.yml)
 
 This gem contains the Line OAuth2 Strategy for OmniAuth.
 
